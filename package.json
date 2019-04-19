@@ -1,0 +1,12 @@
+{
+  "name": "compButton",
+  "scripts": {
+    "build": "umi-lib build"
+  },
+  "dependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "umi": "2.6.13",
+    "umi-library": "^1.4.1",
+    "umi-plugin-react": "1.7.4"
+  }
+}
