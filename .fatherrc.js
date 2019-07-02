@@ -1,7 +1,4 @@
 export default {
-    esm: {
-        type: 'rollup'
-    },
     umd: {
         name: 'compButton',
     },
